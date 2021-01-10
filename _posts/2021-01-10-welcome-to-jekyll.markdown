@@ -24,6 +24,15 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+
+
+<div>
+<!-- this is the embed code provided by Google -->
+<p><iframe src="https://www.uio.no/studier/emner/matnat/fys/FYS4220/h20/forelesningsvideoer/first_fpga_project.mp4?vrtx=video-embed" width="640" height="360" allowfullscreen="allowfullscreen"></iframe></p>
+<!-- Google embed ends -->
+</div>
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

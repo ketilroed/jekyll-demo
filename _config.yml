@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Ketil Røed
+email: ketilroed@fys.uio.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  This is a test Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "ketilroed.github.io" # the subpath of your site, e.g. /blog
@@ -30,7 +30,7 @@ twitter_username: ketilr
 github_username:  ketilroed
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
@@ -55,3 +55,22 @@ plugins:
 #   - vendor/ruby/
 url: ketilroed.github.io
 baseurl: /jekyll-demo
+
+# markdown render engine.
+#markdown:         kramdown
+#kramdown:
+#  auto_ids:               true
+#  input:                  GFM
+#  math_engine:            mathjax
+#  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+#  toc_levels:             1..6
+#  syntax_highlighter:     rouge
+#  syntax_highlighter_opts:
+#    guess_lang:           true
+  #css_class: 'highlight'
+#markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
+highlighter: rouge
+
+#minima:
+#  skin: solarized

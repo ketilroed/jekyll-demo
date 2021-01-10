@@ -4,7 +4,6 @@ title: Test
 permalink: /test/
 ---
 
-
 The objective of this assignment is to:
 - Get familiar with the Quartus Prime design tool,
 - write your first VHDL design,
